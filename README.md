@@ -47,10 +47,13 @@ Custom
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
 <<<<<<<<<<<<<<<<<<<<<<<<
-Pull Request ...
-PR Test results
-https://app.snyk.io/org/karen.matoke.02/pr-checks/4809b794-60a8-44d0-a69d-aa1cdd4cfafd
-https://app.snyk.io/org/karen.matoke.02/pr-checks/4809b794-60a8-44d0-a69d-aa1cdd4cfafd/license
+create a change in a new branch
+create a pull request
+https://github.com/KarenMatoke/mydepsample/pulls
+  https://github.com/KarenMatoke/mydepsample/pull/1
+    PR Test results:
+       https://app.snyk.io/org/karen.matoke.02/pr-checks/4809b794-60a8-44d0-a69d-aa1cdd4cfafd
+       https://app.snyk.io/org/karen.matoke.02/pr-checks/4809b794-60a8-44d0-a69d-aa1cdd4cfafd/license
    
 >>>>>>>>>>>>>>>>>>>>>>>
 
