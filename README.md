@@ -1,3 +1,4 @@
+<<<<<<<<<<<<<<<<<<<<<<<<
 /Users/kmm/Documents/code/snyk/codinglanguages/javascript
 
 Run: 
@@ -43,11 +44,17 @@ Custom
  Enabled
    Fail if the repo has any issues
    
-************************************************************************************************************************************************
-   
-   https://github.com/KarenMatoke/mydepsample/settings/hooks
+>>>>>>>>>>>>>>>>>>>>>>>>>
 
-(Account -> Settings -> Webhooks 
+<<<<<<<<<<<<<<<<<<<<<<<<
+PR Test results
+https://app.snyk.io/org/karen.matoke.02/pr-checks/4809b794-60a8-44d0-a69d-aa1cdd4cfafd
+   
+>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<   
+Login -> Account -> Settings -> Webhooks 
+https://github.com/KarenMatoke/mydepsample/settings/hooks
 
 Webhooks allow external services to be notified when certain events happen. When the specified events happen, we’ll send a POST request to each of the URLs you provide. Learn more in our Webhooks Guide.
 https://api.snyk.io/webhook/github/b5994935-bf92-47d9-bf73-41679caae75f (pull_request and push)
@@ -63,4 +70,4 @@ Let me select individual events:
 Active (We will deliver event details when this hook is triggered
    
    
-
+>>>>>>>>>>>>>>>>>>>>>>>
