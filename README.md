@@ -73,6 +73,8 @@ Let me select individual events:
   Pull requests
   Pushes
 Active (We will deliver event details when this hook is triggered
-   
-   
+>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<  
+https://docs.snyk.io/integrations/git-repository-scm-integrations/test-your-prs-for-vulnerabilities-before-merging
 >>>>>>>>>>>>>>>>>>>>>>>
