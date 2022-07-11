@@ -43,5 +43,24 @@ Custom
  Enabled
    Fail if the repo has any issues
    
+************************************************************************************************************************************************
+   
+   https://github.com/KarenMatoke/mydepsample/settings/hooks
+
+(Account -> Settings -> Webhooks 
+
+Webhooks allow external services to be notified when certain events happen. When the specified events happen, we’ll send a POST request to each of the URLs you provide. Learn more in our Webhooks Guide.
+https://api.snyk.io/webhook/github/b5994935-bf92-47d9-bf73-41679caae75f (pull_request and push)
+
+Payload url
+https://api.snyk.io/webhook/github/b5994935-bf92-47d9-bf73-41679caae75f
+Content type:
+application/json
+SSL verification: Enable SSL verification
+Let me select individual events:
+  Pull requests
+  Pushes
+Active (We will deliver event details when this hook is triggered
+   
    
 
