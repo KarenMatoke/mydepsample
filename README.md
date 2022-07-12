@@ -47,13 +47,29 @@ Custom
 >>>>>>>>>>>>>>>>>>>>>>>>>
 
 <<<<<<<<<<<<<<<<<<<<<<<<
-create a change in a new branch
+create a change in a new branch that is not main, create a pull request
+  for example, under todlist-web-common, edit the pom.xml file and update 2.6.5 to 2.7.7 for the version of com.jasterxml.jackson.core (the snyk vuln results show that that version fixes the vuln)
+
+copy/past from the pull request ('Files changes' tab): 
+todolist-web-common/pom.xml
+Viewed
+@@ -21,7 +21,7 @@
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-core</artifactId>
+            <version>2.6.5</version>
+            <version>2.7.7</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+
 create a pull request
 https://github.com/KarenMatoke/mydepsample/pulls
   https://github.com/KarenMatoke/mydepsample/pull/1
     PR Test results:
        https://app.snyk.io/org/karen.matoke.02/pr-checks/4809b794-60a8-44d0-a69d-aa1cdd4cfafd
        https://app.snyk.io/org/karen.matoke.02/pr-checks/4809b794-60a8-44d0-a69d-aa1cdd4cfafd/license
+On each of the above links, can create a web hook at it gets created in the github repo settings webhooks
    
 >>>>>>>>>>>>>>>>>>>>>>>
 
