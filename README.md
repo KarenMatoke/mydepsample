@@ -94,6 +94,9 @@ Let me select individual events:
 Active (We will deliver event details when this hook is triggered
 
 Note that the webhook of snyk to slack is done by configuring the slack integration for a particular snyk org via app.snyk.io
+see here: https://snyk.slack.com/apps/A0F7XDUAZ-incoming-webhooks?tab=more_info 
+there's a blog about it: https://snyk.io/blog/slack-integration/
+my current value for karen.matoke.02: https://hooks.slack.com/services/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
 >>>>>>>>>>>>>>>>>>>>>>>
 
 <<<<<<<<<<<<<<<<<<<<<<<  
