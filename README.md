@@ -61,7 +61,8 @@ https://github.com/KarenMatoke/mydepsample/pulls
 Login -> Account -> Settings -> Webhooks 
 https://github.com/KarenMatoke/mydepsample/settings/hooks
 
-webhooks are per git repository
+webhooks are per git repository under the repo "settings"
+for this mydepsample repository, go to this URL: https://github.com/KarenMatoke/mydepsample/settings
 
 Webhooks allow external services to be notified when certain "events" happen. When the specified events happen, we’ll send a POST request to each of the URLs you provide. Learn more in our Webhooks Guide.
 https://api.snyk.io/webhook/github/b5994935-bf92-47d9-bf73-41679caae75f (pull_request and push)
