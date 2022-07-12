@@ -92,6 +92,8 @@ Let me select individual events:
   Pull requests
   Pushes
 Active (We will deliver event details when this hook is triggered
+
+Note that the webhook of snyk to slack is done by configuring the slack integration for a particular snyk org via app.snyk.io
 >>>>>>>>>>>>>>>>>>>>>>>
 
 <<<<<<<<<<<<<<<<<<<<<<<  
